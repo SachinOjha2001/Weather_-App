@@ -1,0 +1,18 @@
+.infoBox{
+    margin:10px;
+    padding-left:100px;
+    width: 500px;
+    border:1px solid #f0085d;
+    border-radius:2px;
+    text-align: center;
+    background-color:#f33434;
+    box-shadow:1px 1px 2px rgba(0,0,0,0.1);
+    font-family:Arial, sans-serif;}
+
+    CardMedia{
+        width:80px;
+        height:80px;
+        position:absolute;
+        left:10px;
+        top:10px;
+    }
