@@ -9,6 +9,8 @@ This template provides a minimal setup to get React working in Vite with HMR and
 <h1>Screenshot</h1>
 <img src="https://github.com/SachinOjha2001/Weather_-App/blob/main/Screenshot%202025-11-29%20172658.png?raw=true">
 
+<img src="https://github.com/SachinOjha2001/Weather_-App/blob/main/Screenshot%202025-11-29%20172835.png?raw=true">
+
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
